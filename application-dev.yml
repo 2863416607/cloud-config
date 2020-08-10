@@ -1,9 +1,9 @@
 
 
 env: dev
-
+from: 1
 server:
-  port: 8002
+  port: 8001
 
 eureka:
   client:
