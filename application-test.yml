@@ -18,6 +18,11 @@ spring:
       testOnReturn: false
       poolPreparedStatements: false
       maxPoolPreparedStatementPerConnectionSize: 200
+  rabbitmq:
+    host: 47.93.99.166
+    port: 5672
+    username: guest
+    password: guest
 
 
 eureka:
