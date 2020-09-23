@@ -39,4 +39,4 @@ management:
         include: '*'
 
 payment:
-  method: 7
+  method: 8
